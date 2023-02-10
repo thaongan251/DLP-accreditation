@@ -10,8 +10,8 @@ _Multiple Choice_
 - [ ] Data workloads can be automatically scaled when needed.
 - [ ] Data teams can all utilize secure data from a single source to deliver reliable, consistent results across workloads at scale.
 - [ ] There is increased need for multiple, specialist platform administrators to maintain each component of the unified platform.Data analysts, data engineers, and data scientists can easily collaborate within a single platform.
-- [ ] Analysts can easily integrate their favorite business intelligence (BI) tools for further analysis.
-
+- [x] Analysts can easily integrate their favorite business intelligence (BI) tools for further analysis.
+- [ ] Data analysts, data engineers, and data scientists can easily collaborate within a single platform.
 
 _Multiple Choice_
 **2) Which of the following describes what challenges a data organization would likely face when migrating from a data warehouse to a data lake? Select two responses.**
