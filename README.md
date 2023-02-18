@@ -16,7 +16,8 @@ _Multiple Choice_
 - [ ] There are increased performance speeds in a data lake.
 - [ ] There are increased security and privacy concerns in a data lake.
 - [ ] There are increased data quality guarantees in a data lake
-- [ ] There are increased data reliability issues in a data lake.There are increased cloud storage costs in a data lake.
+- [ ] There are increased data reliability issues in a data lake.
+- [ ] There are increased cloud storage costs in a data lake.
 
 
 _Multiple Choice_
@@ -67,9 +68,11 @@ Which of the following technologies is being described above? Select one respons
 _Multiple Choice_
 **7) Which of the following architecture benefits is provided directly by the Databricks Lakehouse Platform? Select three responses.**
 
-- [ ] Available on and across multiple cloudsBuilt on open source and open standards
+- [ ] Available on and across multiple clouds
+- [ ] Built on open source and open standards
 - [ ] Scalable, redundant cloud-based data storage
-- [ ] Efficient on-premises optimized hardwareUnified security and governance approach for all data assets
+- [ ] Efficient on-premises optimized hardware
+- [ ] Unified security and governance approach for all data assets
 
 
 _Multiple Choice_
@@ -79,7 +82,8 @@ Which of the following is a benefit of using Databricks Workflows for orchestrat
 - [ ] Databricks Workflows supports tasks for data ingestion, data engineering, machine learning, and business intelligence (BI)
 - [ ] Databricks Workflows provides Git-backed version control capabilities to notebooks
 - [ ] Databricks Workflows supports workloads across multiple cloud service providers and tools
-- [ ] Databricks Workflows supports automating workloads as long as they are not in notebooksDatabricks Workflows provides multiple-task workflow functionality only for Delta Live Tables workloads
+- [ ] Databricks Workflows supports automating workloads as long as they are not in notebooks
+- [ ] Databricks Workflows provides multiple-task workflow functionality only for Delta Live Tables workloads
 
 
 _Single choice_
@@ -107,7 +111,9 @@ _Multiple Choice_
 **11) Which of the following is a common problem within a data lake architecture that can be easily solved by using the Databricks Lakehouse Platform? Select three responses.**
 
 - [ ] Inability to use open-source data formats
-- [ ] Too many small filesLack of cloud service integrationsLack of ACID transaction support
+- [ ] Too many small files
+- [ ] Lack of cloud service integrations
+- [ ] Lack of ACID transaction support
 - [ ] Ineffective partitioning
 
 
@@ -137,8 +143,10 @@ _Multiple Choice_
 **14) In which of the following ways do serverless compute resources differ from classic compute resources within the Databricks Lakehouse Platform? Select two responses.**
 
 - [ ] They are always running and reserved for a single, specific customer when needed
-- [ ] They result in lower costs by not overprovisioningThey are located within the cloud
-- [ ] They exist within the Databricks cloud accountThey exist within the customer cloud account
+- [ ] They result in lower costs by not overprovisioning
+- [ ] They are located within the cloud
+- [ ] They exist within the Databricks cloud account
+- [ ] They exist within the customer cloud account
 
 
 _Multiple Choice_
@@ -190,7 +198,8 @@ _Multiple Choice_
 - [ ] SQL and Python development compatibility
 - [ ] End-to-end data pipeline visibility
 - [ ] Automatic deployment and data operations
-- [ ] Serverless cluster startup timesFlexible machine learning development solutions
+- [ ] Serverless cluster startup times
+- [ ] Flexible machine learning development solutions
 
 
 _Multiple Choice_
@@ -229,7 +238,9 @@ Which of the following is a benefit of using the Databricks Lakehouse Platform f
 
 - [ ] Built-in governance for single-source-of-truth data
 - [ ] A rich ecosystem of business intelligence (BI) integrations
-- [ ] Local development software to integrate with other capabilitiesEngineering capabilities supporting warehouse source dataBest available price/performance
+- [ ] Local development software to integrate with other capabilities
+- [ ] Engineering capabilities supporting warehouse source data
+- [ ] Best available price/performance
 
 
 _Single choice_
